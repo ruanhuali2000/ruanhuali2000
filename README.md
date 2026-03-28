@@ -7,37 +7,37 @@
 
 <br/>
 
-<!-- 可爱的动漫/猫咪动图 (你可以随时换成自己喜欢的) -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+<!-- 透明底的像素风跑步小女孩动图 -->
+<img src="https://media.tenor.com/bC_q-gK3z_QAAAAi/pixel-art-run.gif" width="150" />
 
-### ☁️ 关于我 / About Me ☁️
+### ☁️ 关于“我” ……应该不会有人看吧 ☁️
 ✨ 充满好奇心的探索者 | 🎨 一位喜欢新鲜事物的文科生 <br>
 🌱 正在努力学习新知识，每天进步一点点 <br>
 💌 欢迎和我打招呼交流！
 
 <br/>
 
-### 🎀 我使用的魔法工具 / Tech Stack 🎀
+### 🎀 我的呃…一些标签 🎀
 
-<!-- 蓝粉色系的技能徽章 -->
+<!-- 蓝粉色系的个性标签 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-87CEFA?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ADD8E6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/不务正业-FFB6C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/产品经理-87CEFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/随便coding-FFC0CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/新想法-ADD8E6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/skill-FF69B4?style=for-the-badge" />
 </p>
 
 <br/>
 
 ### 🌟 我的 GitHub 冒险记录 🌟
 
-<!-- 蓝粉色主题的统计卡片，请把下面的 YOUR_GITHUB_USERNAME 换成你的真实用户名 -->
+<!-- 蓝粉色主题的统计卡片 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruanhuali2000&show_icons=true&bg_color=FFE4E1&title_color=FF69B4&text_color=5F9EA0&icon_color=87CEEB&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!-- 蓝粉色访客计数器，请把下面的 YOUR_GITHUB_USERNAME 换成你的真实用户名 -->
+<!-- 蓝粉色访客计数器 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruanhuali2000&color=ffb6c1&style=flat-square&label=VISITORS" alt="Visitor Count" />
 </p>
