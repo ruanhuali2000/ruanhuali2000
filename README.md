@@ -8,8 +8,7 @@
 <br/>
 
 <!-- 👇👇👇 请把你电脑里的 IMG_6182.GIF 拖拽到下面这一行 👇👇👇 -->
-![340814e551d2f72cd994664a125a14bb](https://github.com/user-attachments/assets/679c478a-7902-42e3-a12e-10914ad0697c)
-
+![IMG_6192(2)](https://github.com/user-attachments/assets/7921abe8-0cdf-4290-bae9-e375132ce64d)
 <!-- 👆👆👆 拖拽到上面这一行 👆👆👆 -->
 
 ### ☁️ 关于“我” 的角色 ☁️
