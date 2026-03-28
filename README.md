@@ -6,10 +6,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;I+love+coding+and+design!%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
-<br/>
 
 <!-- 👇👇👇 请把你电脑里的 IMG_6182.GIF 拖拽到下面这一行 👇👇👇 -->
-![IMG_6186](https://github.com/user-attachments/assets/28d3f2aa-3fa6-4922-9cfd-c742fe2797cf)
+![340814e551d2f72cd994664a125a14bb](https://github.com/user-attachments/assets/679c478a-7902-42e3-a12e-10914ad0697c)
+
 <!-- 👆👆👆 拖拽到上面这一行 👆👆👆 -->
 
 ### ☁️ 关于“我” 的角色 ☁️
