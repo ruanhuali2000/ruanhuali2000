@@ -1,14 +1,17 @@
 <div align="center">
 
-# 🌸 欢迎来到 红烧肉bot 的妙妙屋 🌸
+# 🌸 欢迎来到【红烧肉bot】的妙妙屋 🌸
 
 <!-- 蓝粉色动态打字特效 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;I+love+coding+and+design!%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
+<br/>
 
-<!-- 修复版：透明底的像素风跑步小女孩动图 -->
-<img src="https://i.gifer.com/origin/8c/8cd3f18982db5ed0285cb05d5e238002_w200.gif" width="150" />
+<!-- 终极稳定版：像素风小女孩动图 -->
+<img src="https://media.giphy.com/media/l41YmQjOz9qg2Ecow/giphy.gif" width="180" />
+
+<br/>
 
 ### ☁️ 关于“我” 的角色 ☁️
 ✨ 充满好奇心的探索者 | 🎨 一位喜欢新鲜事物的文科生 <br>
@@ -32,7 +35,7 @@
 
 ### 🌟 我的 GitHub 冒险记录 🌟
 
-<!-- 修复版：蓝粉色主题的统计卡片 (使用了备用稳定服务器) -->
+<!-- 蓝粉色主题的统计卡片 -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruanhuali2000&show_icons=true&bg_color=FFE4E1&title_color=FF69B4&text_color=5F9EA0&icon_color=87CEEB&hide_border=true" alt="GitHub Stats" />
 </p>
