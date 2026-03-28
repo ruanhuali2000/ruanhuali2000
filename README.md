@@ -8,8 +8,9 @@
 <br/>
 <br/>
 
-<!-- 终极稳定版：像素风小女孩动图 -->
-<img src="https://media.giphy.com/media/l41YmQjOz9qg2Ecow/giphy.gif" width="180" />
+<!-- 👇👇👇 请把你电脑里的 IMG_6182.GIF 拖拽到下面这一行 👇👇👇 -->
+![IMG_6182](https://github.com/user-attachments/assets/cf2519e4-5170-439c-96d5-a604bdde3dab)
+<!-- 👆👆👆 拖拽到上面这一行 👆👆👆 -->
 
 <br/>
 
@@ -20,7 +21,7 @@
 
 <br/>
 
-### 🎀 我的呃...一些标签 🎀
+### 🎀 我的呃 | 一些标签 🎀
 
 <!-- 蓝粉色系的个性标签 -->
 <p align="center">
