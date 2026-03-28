@@ -9,10 +9,8 @@
 <br/>
 
 <!-- 👇👇👇 请把你电脑里的 IMG_6182.GIF 拖拽到下面这一行 👇👇👇 -->
-![IMG_6182](https://github.com/user-attachments/assets/cf2519e4-5170-439c-96d5-a604bdde3dab)
+![IMG_6186](https://github.com/user-attachments/assets/28d3f2aa-3fa6-4922-9cfd-c742fe2797cf)
 <!-- 👆👆👆 拖拽到上面这一行 👆👆👆 -->
-
-<br/>
 
 ### ☁️ 关于“我” 的角色 ☁️
 ✨ 充满好奇心的探索者 | 🎨 一位喜欢新鲜事物的文科生 <br>
